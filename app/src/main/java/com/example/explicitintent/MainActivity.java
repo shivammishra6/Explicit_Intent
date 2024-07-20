@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("hello");
         System.out.println("mishra");
         System.out.println("shivam");
-
+        System.out.println("hello from friend");
     }
     public void send(View v){
         TextView tv=findViewById(R.id.editTextText);
