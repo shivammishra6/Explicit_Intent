@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("hello");
+        System.out.println("shivam");
     }
     public void send(View v){
         TextView tv=findViewById(R.id.editTextText);
