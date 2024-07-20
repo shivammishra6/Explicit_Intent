@@ -6,10 +6,9 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-skl;djfas;dlfjs;lfsjd;l
-skl;djfas;dlfjs;lfsjd;l
-skl;djfas;dlfjs;lfsjd;l
-skl;djfas;dlfjs;lfsjd;l
+
+
+
     <EditText
     <EditText
     <EditText
@@ -17,8 +16,8 @@ skl;djfas;dlfjs;lfsjd;l
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="68dp"
-        android:ems="10"
         android:autofillHints="name"
+        android:ems="10"
         android:hint="@string/enter_name"
         android:inputType="text"
         android:textColorHint="@color/black"
