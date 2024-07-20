@@ -18,6 +18,5 @@ public class MainActivity2 extends AppCompatActivity {
         String result = i.getStringExtra("data");
         String res="Hello "+result;
         txt.setText(res);
-        txt.setText(res);
     }
 }
