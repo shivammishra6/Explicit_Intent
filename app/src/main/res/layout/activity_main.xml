@@ -11,6 +11,8 @@ skl;djfas;dlfjs;lfsjd;l
 skl;djfas;dlfjs;lfsjd;l
 skl;djfas;dlfjs;lfsjd;l
     <EditText
+    <EditText
+    <EditText
         android:id="@+id/editTextText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
